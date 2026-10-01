@@ -16,11 +16,3 @@ The projects are organized by difficulty level following the official guide:
 
 ### Advanced
 * *In progress*
-
-
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
