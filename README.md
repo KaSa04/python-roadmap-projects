@@ -9,7 +9,7 @@ Repository created to store my solutions for the projects suggested by the [Pyth
 The projects are organized by difficulty level following the official guide:
 
 ### Beginner
-* [Number Guessing Game](./beginner/number-guessing-game/) | [roadmap.sh specs](https://roadmap.sh/projects/number-guessing-game)
+* [Number Guessing Game](https://github.com/KaSa04/python-roadmap-projects/blob/main/beginner/number-guessing-game.py) | [roadmap.sh specs](https://roadmap.sh/projects/number-guessing-game)
 
 ### Intermediate
 * *In progress*
